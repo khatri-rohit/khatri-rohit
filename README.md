@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Khatri</h1>
-<h3 align="center">A Passionate Student of BCA, Who wants to a Software Developer</h3>
+<h3 align="center">A Passionate Student of BCA, Who wants to be a Software Developer</h3>
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **DBMS, JAVASCRIPT, COMPETITIVE PROGRAMMING...**
+- 🌱 I’m currently learning **REACT, JAVASCRIPT, COMPETITIVE PROGRAMMING...**
 
-- 💬 Ask me about **COMPUTER sCIENCE**
+- 💬 Ask me about **COMPUTER SCIENCE**
 
 - 📫 How to reach me **rohitkhatri111112@gmail.com**
 
