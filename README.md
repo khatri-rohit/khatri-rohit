@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rohit Khatri</h1>
-<h3 align="center">A Passionate Student of BCA, Who wants to be a Software Developer</h3>
+<h1 align="center">Hey 👋, I'm Rohit Khatri</h1>
+<h3 align="center">A Passionate Student of BCA, Who wants to be a Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **REACT, JAVASCRIPT, COMPETITIVE PROGRAMMING...**
+- 🌱 I’m currently learning **learning through projects**
 
 - 💬 Ask me about **COMPUTER SCIENCE**
 
