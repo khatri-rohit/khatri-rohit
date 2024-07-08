@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **learning through projects**
+- 🌱 I’m currently learning **through projects**
 
 - 💬 Ask me about **COMPUTER SCIENCE**
 
