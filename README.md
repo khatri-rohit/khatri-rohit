@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **COMPUTER SCIENCE**
 
-- 📫 How to reach me **rohitkhatri111112@gmail.com**
+- 📫 How to reach me **rohitkhatri.dev@gmail.com**
 
 - ⚡ I Only Believe in Myself **☠️**
 
