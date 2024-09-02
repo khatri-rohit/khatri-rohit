@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I'll like to learn while making **projects**
+- 🌱 I learn from **projects**
 
 - 💬 Ask me about **COMPUTER SCIENCE**
 
 - 📫 How to reach me **rohitkhatri.dev@gmail.com**
 
-- ⚡ **If You Want to Get Something You Never had then You Need to do Something You Do**
+- ⚡ **If You Want to Get Something You Never Had You Need to do Something You Do**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkhatri&show_icons=true&locale=en&layout=compact" alt="rohitkhatri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkhatri&show_icons=true&locale=en" alt="rohitkhatri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkhatri&" alt="rohitkhatri" /></p>
