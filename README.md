@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rohitkhatri.dev@gmail.com**
 
-- ⚡ I Only Believe in **If You Want to Get Something You Never had then You Need to do Something You Do**
+- ⚡ **If You Want to Get Something You Never had then You Need to do Something You Do**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
