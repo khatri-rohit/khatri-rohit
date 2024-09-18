@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Rohit Khatri</h1>
-<h3 align="center">A Passionate Frontend Web Developer and Still a Learner</h3>
+<h3 align="center">A Passionate Frontend Web Developer and Learner</h3>
 
 - 🔭 I’m currently working on **Portfolio**
 
