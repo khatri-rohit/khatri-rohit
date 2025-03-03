@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, I'm Rohit Khatri</h1>
 <h3 align="center">A Passionate Frontend Web Developer and Learner</h3>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=khatri-rohit)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khatri-rohit&label=Profile%20views&color=0e75b6&style=flat" alt="intojhanurag" /> </p>
 
 - 🔭 I’m currently learning **Full Stack 🚀**
 
