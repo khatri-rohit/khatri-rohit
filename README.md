@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Currently diving deeper into **Full-Stack Development**  
+- 🔭 Currently diving deeper into **AI / ML**  
 - 🌱 I learn best by **building real projects**  
 - 💬 Ask me about **Web Development & Computer Science**  
 - 📫 Reach me at: **rohitkhatri.dev@gmail.com**  
@@ -67,5 +67,9 @@
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
 
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khatri-rohit&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity" />
+</div>
 
 ---
