@@ -69,7 +69,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khatri-rohit&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khatri-rohit&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" width="100%" alt="Activity" />
 </div>
 
 ---
