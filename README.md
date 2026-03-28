@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=30&pause=1000&color=09D648&multiline=true&random=false&width=500&height=90&lines=Rohit+Khatri;thisisrohit.dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=30&pause=1000&color=09D648&multiline=true&random=false&width=500&height=90&lines=thisisrohit.dev)](https://git.io/typing-svg)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=khatri-rohit&label=Profile%20views&color=0e75b6&style=flat" alt="intojhanurag" /> 
