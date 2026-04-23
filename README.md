@@ -1,70 +1,114 @@
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=30&pause=1000&color=09D648&multiline=true&random=false&width=500&height=90&lines=thisisrohit.dev)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:011a0a,80:013d1a,100:00ff66&height=230&section=header&text=Rohit%20Khatri&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=15&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=khatri-rohit&label=Profile%20views&color=0e75b6&style=flat" alt="intojhanurag" /> 
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&random=false&width=680&lines=Building+scalable+web+apps+from+scratch+%F0%9F%9A%80;Next.js+%7C+Node.js+%7C+TypeScript+%7C+Go;Clean+code%2C+bold+ideas%2C+real+impact+%E2%9A%A1;Currently+exploring+AI+%2B+ML+%F0%9F%A4%96;%E2%86%92+thisisrohit.dev)](https://thisisrohit.dev)
 
----
+<br/>
 
-### 👨‍💻 About Me  
-- 🔭 Currently diving deeper into **AI / ML**  
-- 🌱 I learn best by **building real projects**  
-- 💬 Ask me about **Web Development & Computer Science**  
-- 📫 Reach me at: **rohitkhatri.dev@gmail.com**  
-- ⚡ Motto: *"If you want to get something you never had, you must do something you never did."*
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/rohit_khatri302" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/rohitkhatri302" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
-
----
-
-### 🧠 Languages & Tools I Work With
-<p align="center">
-
-  <!-- Frontend -->
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="filter: invert(1);"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.framer.com/motion/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer-motion" width="40" height="40"/></a>
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*wGdP-ym3kqQopOA9us8nXg.jpeg" alt="gsap" width="40" height="40"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=khatri-rohit&label=Profile+Views&color=00ff88&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://twitter.com/rohit_khatri302">
+    <img src="https://img.shields.io/badge/Twitter-%40rohit__khatri302-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
   </a>
-
-  <!-- Backend -->
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/54469796?s=280&v=4" alt="supabase" width="40" height="40"/></a>
-  <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>
-
-  <!-- DevOps & Tools -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/rohitkhatri302">
+    <img src="https://img.shields.io/badge/LinkedIn-rohitkhatri302-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
   </a>
-
-  <!-- Core Web -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-
-  <!-- Others -->
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
-
+  &nbsp;
+  <a href="mailto:rohitkhatri.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rohitkhatri.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="https://thisisrohit.dev">
+    <img src="https://img.shields.io/badge/Portfolio-thisisrohit.dev-00ff88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117"/>
+  </a>
 </p>
+
+</div>
+
+<br/>
+
+---
+
+## `~/about-me`
+
+```typescript
+const rohit: Developer = {
+  name        : "Rohit Khatri",
+  role        : "Full Stack Engineer",
+  location    : "India 🇮🇳",
+  focus       : ["Web Development", "AI / ML", "Scalable Systems"],
+  learning    : "Artificial Intelligence & Machine Learning 🤖",
+  askMeAbout  : ["Next.js", "React", "Node.js", "TypeScript", "System Design"],
+  funFact     : "I learn best by shipping real projects, not just reading docs 🛠️",
+  motto       : "If you want something you never had — do something you never did.",
+};
+```
+
+---
+
+## `~/tech-stack`
+
+**🖥️ Frontend**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css&theme=dark&perline=8)](https://skillicons.dev)
+
+**⚙️ Backend & Databases**
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go,mongodb,postgres,supabase,firebase&theme=dark&perline=8)](https://skillicons.dev)
+
+**🛠️ DevOps, Tools & Others**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,java,cpp&theme=dark&perline=8)](https://skillicons.dev)
+
+<p>
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## `~/github-stats`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khatri-rohit&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" width="100%" alt="Activity" />
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=khatri-rohit&show_icons=true&bg_color=0d1117&border_color=1c2a1c&title_color=00ff88&icon_color=00ff88&text_color=8b949e&count_private=true&include_all_commits=true&hide_border=false&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatri-rohit&layout=compact&bg_color=0d1117&border_color=1c2a1c&title_color=00ff88&text_color=8b949e&hide_border=false&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=khatri-rohit&background=0d1117&border=1c2a1c&ring=00ff88&fire=00cc66&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=00ff88&sideLabels=8b949e&dates=4a4a4a&stroke=0d1117" alt="GitHub Streak"/>
+
 </div>
 
 ---
+
+## `~/contribution-graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khatri-rohit&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=013d1a&hide_border=true&custom_title=Rohit%27s%20Contribution%20Graph%20%F0%9F%8C1" width="100%" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+> *"If you want to get something you never had, you must do something you never did."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:013d1a,100:0d1117&height=130&section=footer" width="100%"/>
+
+</div>
