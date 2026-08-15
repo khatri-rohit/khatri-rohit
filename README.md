@@ -9,8 +9,8 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=khatri-rohit&label=Profile+Views&color=00ff88&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
   &nbsp;
-  <a href="https://twitter.com/rohit_khatri302">
-    <img src="https://img.shields.io/badge/Twitter-%40rohit__khatri302-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
+  <a href="https://x.com/rohitxdotdev">
+    <img src="https://img.shields.io/badge/X-%40rohitxdotdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/rohitkhatri302">
