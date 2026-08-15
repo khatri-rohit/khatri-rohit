@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:011a0a,80:013d1a,100:00ff66&height=230&section=header&text=Rohit%20Khatri&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=15&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:011a0a,80:013d1a,100:00ff66&height=230&section=header&text=Rohit%20Khatri&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%2FML%20&descSize=15&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&random=false&width=680&lines=Building+scalable+web+apps+from+scratch+%F0%9F%9A%80;Next.js+%7C+Node.js+%7C+TypeScript+%7C+Go;Clean+code%2C+bold+ideas%2C+real+impact+%E2%9A%A1;Currently+exploring+AI+%2B+ML+%F0%9F%A4%96;%E2%86%92+thisisrohit.dev)](https://thisisrohit.dev)
 
@@ -79,9 +79,9 @@ const rohit: Developer = {
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=khatri-rohit&show_icons=true&bg_color=0d1117&border_color=1c2a1c&title_color=00ff88&icon_color=00ff88&text_color=8b949e&count_private=true&include_all_commits=true&hide_border=false&rank_icon=github"/>
+<!-- <img height="185em" src="https://github-readme-stats.vercel.app/api?username=khatri-rohit&show_icons=true&bg_color=0d1117&border_color=1c2a1c&title_color=00ff88&icon_color=00ff88&text_color=8b949e&count_private=true&include_all_commits=true&hide_border=false&rank_icon=github"/> -->
 &nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatri-rohit&layout=compact&bg_color=0d1117&border_color=1c2a1c&title_color=00ff88&text_color=8b949e&hide_border=false&langs_count=8"/>
+<!-- <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatri-rohit&layout=compact&bg_color=0d1117&border_color=1c2a1c&title_color=00ff88&text_color=8b949e&hide_border=false&langs_count=8"/> -->
 
 </div>
 
